@@ -15,8 +15,7 @@ By keeping a note of the separating lines, it can be easily noticed where the us
 
 It is not a problem if an invalid choice is provided anywhere, anytime and for any no.of times throughout the program, as instead of shutting down abnormally, that invalid choice will be handled.
 Although, care has to be taken in providing a choice after the invalid choice is handled or else it will be assumed that the user is no longer interested in using the program.
-It is strongly advised to take extreme care while inputting Employee data when the program runs as in some cases program will shut down abnormally.
-Invalid data inputs can not be handled when a type of data provided mismatches the type of data required.
+Invalid data entries are handled too!
 
 This program also mimics the working of a login page in its most basic form.
 The user can login as HR/Employee/Guest and is therefore allowed to use certain functions that are associated to the type of login.
